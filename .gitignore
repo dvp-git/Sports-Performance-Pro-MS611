@@ -1,5 +1,1 @@
-# Ignore config.py
-config.py
-
-# Ignore run.py
-run.py
+.env
